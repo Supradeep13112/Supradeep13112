@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Supradeep Roy!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&width=600&lines=Hey!+I'm+Supradeep+Roy+👋;BSc+Computer+Science+Student;Aspiring+Software+%26+Network+Engineer;Always+Learning+Something+New!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&width=600&lines=Hey!+I'm+Supradeep+Roy+👋;BTech+Computer+Science+Engineering+Student;Aspiring+Software+%26+Network+Engineer;Always+Learning+Something+New!)
 
 ---
 
