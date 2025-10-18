@@ -15,7 +15,7 @@
 
 | 💻 Programming Languages | 🛠️ Tools & IDEs | 🌐 Web Technologies |
 |--------------------------|----------------|--------------------|
-| ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-blue?logo=c) | ![Git](https://img.shields.io/badge/Git-black?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github) ![VS Code](https://img.shields.io/badge/VSCode-0078D7?logo=visualstudiocode&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-purple?logo=intellijidea&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) |
+| <img src="https://www.logo.wine/a/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="50"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"/> <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="50"/> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50"/> |
 
 ---
 
@@ -28,6 +28,8 @@ A collection of Java programs covering **core concepts, algorithms, and practice
 🌟 **[C Programs](https://github.com/Supradeep13112/c-programs)**  
 A set of small C projects to strengthen logic-building and coding fundamentals.  
 ![C GIF](https://media.giphy.com/media/l3vR9OaOSm4qQ/giphy.gif)
+
+---
 
 ## 📊 GitHub Stats & Activity
 
@@ -45,11 +47,12 @@ A set of small C projects to strengthen logic-building and coding fundamentals.
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/supradeep-roy" target="www.linkedin.com/in/supradeep-roy-b80039244">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/supradeep-roy-b80039244" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:supraroydeep2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" width="40" alt="Gmail" />
   </a>
 </p>
 
