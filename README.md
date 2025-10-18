@@ -47,7 +47,7 @@ A set of small C projects to strengthen logic-building and coding fundamentals.
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/supradeep-roy-b80039244" target="_blank">
+  <a href="https://www.linkedin.com/in/supradeep-roy-b80039244" target="www.linkedin.com/in/supradeep-roy-b80039244">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="45" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
