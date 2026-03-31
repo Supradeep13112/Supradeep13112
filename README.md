@@ -15,9 +15,18 @@
 
 | 💻 Programming Languages | 🛠️ Tools & IDEs | 🌐 Web Technologies |
 |--------------------------|----------------|--------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="70"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height=155 width="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="47"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="70"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50"/> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height=155 width="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="47"/> |
 
 ---
+
+## 🧰 Productivity Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="50"/>
+</p>
 
 ## 🚀 Featured Projects
 
