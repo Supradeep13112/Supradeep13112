@@ -31,15 +31,15 @@ A set of small C projects to strengthen logic-building and coding fundamentals.
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supradeep13112&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supradeep13112&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Supradeep13112&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supradeep13112&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Supradeep13112&theme=react-dark" />
+  <img src="https://streak-stats.demolab.com?user=Supradeep13112&theme=tokyonight"/>
 </p>
 
 ---
