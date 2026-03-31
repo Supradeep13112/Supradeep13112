@@ -13,13 +13,42 @@
 
 ## 🧰 Tech Stack & Tools
 
-| 💻 Programming Languages | 🛠️ Tools & IDEs | 🌐 Web Technologies |🧰 Productivity Tools
-|--------------------------|----------------|--------------------|----------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="70"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="70"/> | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60"/> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="65"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height=155 width="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="47"/>|
-  <img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="50"/>|
+<table align="center">
+<tr>
+<td align="center"><b>💻 Languages</b></td>
+<td align="center"><b>🛠️ Tools & IDEs</b></td>
+<td align="center"><b>🌐 Web</b></td>
+<td align="center"><b>🧰 Productivity</b></td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40"/>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/color/48/microsoft-word-2019.png" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="40"/>
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019.png" width="40"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
