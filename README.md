@@ -58,7 +58,7 @@
 A collection of Java programs covering **core concepts, algorithms, and practice problems**.  
 ![Java GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-🌟 **[C Programs](https://github.com/Supradeep13112/c-programs)**  
+🌟 **[C Programs](https://github.com/Supradeep13112/C-Programming)**  
 A set of small C projects to strengthen logic-building and coding fundamentals.  
 ![C GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
